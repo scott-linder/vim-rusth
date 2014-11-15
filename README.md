@@ -11,7 +11,7 @@ path like `/usr/local/bin`.
 
 Set 'keywordprg' to the rusth script. This is only helpful for Rust buffers, so
 if you have autocmd and
-(rust.vim)[https://github.com/scott-linder/vim-rusth.git] you can add something
+[rust.vim](https://github.com/scott-linder/vim-rusth.git) you can add something
 like the following to your vimrc:
 ```
 au FileType rust setl keywordprg=/usr/local/bin/rusth
